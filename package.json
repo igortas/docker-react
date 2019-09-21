@@ -3,15 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-<<<<<<< HEAD
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
-=======
-    "react": "^16.8.5",
-    "react-dom": "^16.8.5",
-    "react-scripts": "2.1.8"
->>>>>>> 126ebec49701c498860ca2311b2d9e7b8541939f
   },
   "scripts": {
     "start": "react-scripts start",
@@ -22,7 +16,6 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-<<<<<<< HEAD
   "browserslist": {
     "production": [
       ">0.2%",
@@ -35,12 +28,4 @@
       "last 1 safari version"
     ]
   }
-=======
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
->>>>>>> 126ebec49701c498860ca2311b2d9e7b8541939f
 }
